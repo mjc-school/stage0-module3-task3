@@ -1,6 +1,6 @@
-package lang.print.gaps.task3;
+package school.mjc.stage0.module3.task3;
 
-public class DeclaringVars {
+public class ReassigningValues {
     public static void main(String[] args) {
         //write code here
     }
